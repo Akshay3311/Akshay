@@ -5,7 +5,7 @@ public class Ak{
         int c;
         System.out.println("Sum of two 5 7 10 is:" + (a+b));
         System.out.println("Division is");
-        System.out.println("Changes are save");
+        System.out.println("Changesp are save");
         c = a=b;
     }
 }
